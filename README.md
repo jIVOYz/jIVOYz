@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Rust, Vue.js<br>🎯 Goals: speak English fluently</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Rust<br>🎯 Goals: speak English fluently</p>
 
 ###
 
